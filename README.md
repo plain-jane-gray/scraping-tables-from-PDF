@@ -1,9 +1,8 @@
 ## Scraping data tables from a PDF file
 
-<img src="https://github.com/plain-jane-gray/scraping-data-tables-from-PDF/assets/91796089/d12ded7d-e020-469c-ae68-6f30c9391c51" width=48% height=48%>   &rarr; <img src="https://github.com/plain-jane-gray/scraping-data-tables-from-PDF/assets/91796089/b3858e52-27ab-47a1-a29f-188d5f02c8db" width=48% height=48%>
+<img src="https://github.com/plain-jane-gray/scraping-tables-from-PDF/blob/main/PDF%20image.jpg" width=48% height=48%>   &rarr; <img src="https://github.com/plain-jane-gray/scraping-tables-from-PDF/blob/main/pandas%20table.jpg" width=48% height=48%>
 
-
-The goal of this respository is to scrape data tables from a PDF file. Once extracted from the PDF file, it can be analyzed and eventually mapped to allow for the user to easily understand the data. 
+The code in this respository scrapes data tables from a PDF file. Once extracted from the PDF file, it is clean, analyzed, and mapped. The map allows the user to easily understand the data. 
 
 This repository contains a single Jupyter notebook: 
 
